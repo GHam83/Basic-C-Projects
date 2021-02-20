@@ -1,0 +1,6 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.pdb
