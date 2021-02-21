@@ -1,0 +1,6 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
