@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.csprojAssemblyReference.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.pdb

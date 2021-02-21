@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousIncomeComp", "AnonymousIncomeComp\AnonymousIncomeComp.csproj", "{F142FA8B-F50C-45A0-9C02-1301830ED99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F142FA8B-F50C-45A0-9C02-1301830ED99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F142FA8B-F50C-45A0-9C02-1301830ED99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F142FA8B-F50C-45A0-9C02-1301830ED99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F142FA8B-F50C-45A0-9C02-1301830ED99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C7E340-112A-457B-A37D-2212EBE965BC}
+	EndGlobalSection
+EndGlobal
