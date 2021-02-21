@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\obj\Debug\Console_App-Assign.csprojAssemblyReference.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\obj\Debug\Console_App-Assign.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\bin\Debug\Console_App-Assign.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\bin\Debug\Console_App-Assign.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\bin\Debug\Console_App-Assign.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\obj\Debug\Console_App-Assign.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Console_App-Assign\Console_App-Assign\obj\Debug\Console_App-Assign.pdb
