@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\bin\Debug\PackageAssign.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\bin\Debug\PackageAssign.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\bin\Debug\PackageAssign.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\obj\Debug\PackageAssign.csprojAssemblyReference.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\obj\Debug\PackageAssign.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\obj\Debug\PackageAssign.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\PackageAssign\PackageAssign\obj\Debug\PackageAssign.pdb
