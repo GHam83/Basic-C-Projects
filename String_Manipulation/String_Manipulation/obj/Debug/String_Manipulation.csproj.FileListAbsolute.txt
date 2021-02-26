@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csprojAssemblyReference.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.pdb
