@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\bin\Debug\Array_List.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\bin\Debug\Array_List.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\bin\Debug\Array_List.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\obj\Debug\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\obj\Debug\Array_List.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\obj\Debug\Array_List.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\Array_List\Array_List\obj\Debug\Array_List.csprojAssemblyReference.cache
