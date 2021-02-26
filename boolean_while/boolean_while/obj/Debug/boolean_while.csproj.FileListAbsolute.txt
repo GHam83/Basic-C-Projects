@@ -1,0 +1,7 @@
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\bin\Debug\boolean_while.exe.config
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\bin\Debug\boolean_while.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\bin\Debug\boolean_while.pdb
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\obj\Debug\boolean_while.csprojAssemblyReference.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\obj\Debug\boolean_while.csproj.CoreCompileInputs.cache
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\obj\Debug\boolean_while.exe
+C:\Users\gregh\OneDrive\Documents\GitHub\Basic-C-Projects\boolean_while\boolean_while\obj\Debug\boolean_while.pdb
